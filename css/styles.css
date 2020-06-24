@@ -57,7 +57,7 @@ header .resaltado, header .actual a {
     font-weight: bold;
 }
 header a:hover {
-    color:#ccc ;
+    color:rgb(255, 255, 255) ;
     font-weight: bold;
 }
 
@@ -81,3 +81,9 @@ header a:hover {
 .j2 {
     margin-top: 2cm;
 }
+.collapse {
+   font-style: normal;
+   stop-color:red;
+   float: left;
+   color:white;
+ }

@@ -2,7 +2,7 @@ body {
     font: 15px Arial, Helvetica, sans-serif;
     padding: 0;
     margin: 0;
-    background-color:rgb(255, 255, 255);
+    background-color: cyan;
 }
 /*Estilos globales*/
 .contenedor {
@@ -60,3 +60,18 @@ header a:hover {
     color:#ccc ;
     font-weight: bold;
 }
+.imgBMW {
+    margin-right: 10px;
+    padding-top: 3px;
+    width: 900px;
+     }
+     .z1 {
+         margin-top: 3cm;
+         text-align: center;
+         font-size: 3cm;
+     }
+     .z2 {
+         margin-top: 1.5cm;
+         text-align: justify;
+         color:black;
+     }
