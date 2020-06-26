@@ -67,13 +67,15 @@ header a:hover {
     width: 950px;
 }
 .raptor1 {
-    font-style: inherit;
+    
     color: blue;
     font-style: italic;
+   text-align: center;
 
 }
 .subtitulos {
     text-align: center;
+    margin-top: 2cm;
 }
 .j {
     margin-top: 4cm;
@@ -87,3 +89,5 @@ header a:hover {
    float: left;
    color:white;
  }
+ 
+ 
