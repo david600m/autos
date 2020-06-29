@@ -89,5 +89,10 @@ header a:hover {
    float: left;
    color:white;
  }
- 
+ .footer {
+     background-color: papayawhip;
+     margin-top: 2cm;
+     font-style: initial;
+     color: blue;
+ }
  

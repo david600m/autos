@@ -82,3 +82,17 @@ header a:hover {
         margin-top: 1cm;
     
     }
+    .acordeon {
+        margin-top: 2cm;
+        text-align: center;
+    }
+    .footer {
+        background-color: papayawhip;
+        margin-top: 2cm;
+        font-style: initial;
+        color: blue;
+    }
+    .z2 {
+        text-align: center;
+        color: blue;
+    }
