@@ -2,7 +2,7 @@ body {
     font: 15px Arial, Helvetica, sans-serif;
     padding: 0;
     margin: 0;
-    background-color: rgb(104, 102, 102);
+    background-color: rgb(255, 255, 255);
 }
 /*Estilos globales*/
 .contenedor {
@@ -95,4 +95,7 @@ header a:hover {
     .z2 {
         text-align: center;
         color: blue;
+    }
+    .foot {
+        margin-top: 1cm;
     }
